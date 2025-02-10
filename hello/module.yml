@@ -2,5 +2,4 @@ name: Hello
 challenges:
   - id: apple
     name: Apple
-  - id: banana
-    name: Banana
+
